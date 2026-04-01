@@ -6,7 +6,7 @@ Bayesian updating system to recalibrate fair value estimates with tail calibrati
 ## Implemented Features
 - ✅ Bayesian updating with weighted observations
 - ✅ Tail calibration for extreme outcomes
-- ✅ Brier score calculation for calibration error
+- ✅ Brier score calculation for calibration 
 
 ## Setup
 ```bash
